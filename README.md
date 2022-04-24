@@ -1,3 +1,3 @@
 # car_rental
 A car rental management project
-cliant and admin side.
+have both client and admin side.
